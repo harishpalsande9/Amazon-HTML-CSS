@@ -1,0 +1,72 @@
+body{
+	background:white;
+}
+
+.ul-1{
+	margin:0px;
+	    margin-bottom: 8px;
+
+}
+
+.li-1{
+	display: inline;
+    margin: 14px;
+}
+
+.div1{
+	height: 24px;
+	    border-bottom: 1px solid #DDDDDD;
+
+}
+
+.h2-1{
+	margin:0px;
+}
+
+.heading{
+	margin: 15px;
+    margin-left: 23px;
+}
+
+.div-01{
+    float: left;
+	border-right: 1px solid #DDDDDD;
+	padding: 6px;
+}
+
+.div-02{
+    float: left;
+    height: 100%;
+    width: 1000px;}
+
+.any{
+	
+    margin-left: -20px;
+}
+
+.div-03{
+	    margin: 3px;
+    margin-left: 15px;
+}
+
+.img4{
+    height: 150px;
+    width: 139px;
+	float:left;
+	margin:16px;
+}
+.img5{
+    height: 150px;
+    width: 139px;
+	float:left;
+	
+	margin:16px;
+}
+.img6{
+    height: 150px;
+    width: 139px;
+	float:left;
+	
+	margin:16px;
+}
+

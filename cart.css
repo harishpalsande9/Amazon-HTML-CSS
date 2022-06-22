@@ -1,0 +1,67 @@
+.maindiv{
+	
+}
+
+.div-01{
+	    margin-left: 15px;
+
+}
+
+.div-02{
+	    background: white;
+    height: 250px;
+    width: 900px;
+    margin: 14px;
+}
+
+.div-03{
+	    background: white;
+    height: 100px;
+    width: 900px;
+    margin: 14px;
+}
+
+.div-04{
+	    margin: 12px;
+}
+
+.div-05{
+	
+}
+.span-1{
+	
+}
+.span-2{
+	
+}
+
+.span-4{
+	    font-size: 12px;
+    margin-left: 34px;
+}
+.div-06{
+	    height: 99px;
+    width: 400px;
+    float: right;
+    margin-right: 112px;
+    margin-top: 60px;
+}
+
+.button-1{
+	    border: none;
+    background: #FFD814;
+    font-size: 17px;
+    border-radius: 7px;
+    margin-left: 28px;
+	    margin-top: 15px;
+padding:5px;
+}
+
+.button-2{
+    background: white;
+    font-size: 17px;
+    border-radius: 7px;
+    margin-left: 10px;
+	border:1px solid black;
+	padding:5px;
+}

@@ -1,0 +1,92 @@
+html, body, div, span, applet, object, iframe,
+ h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video, img {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+img{
+	float: left;
+	width: 50%;
+	height:625px;
+}
+
+
+h1{
+	font-size: 30px;
+	padding-bottom: 6px;
+font-family: 'Roboto', sans-serif;
+}
+
+h4{
+    padding-right: 2px;
+    font-size: 14px;}
+
+form{
+	text-align: center;
+    padding-top: 146px;
+	color:#43425D;
+}
+
+.square{
+	height: 625px;
+	width:50%;
+	float:right;
+}
+
+input {
+    width: 42%;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    border-radius: 0px;
+    border: 1px solid #ccc;
+    border: none;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.email .pwd{
+		border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+
+}
+input.remember{
+	    width: 3%;
+}
+
+
+
+button {
+  border: none;
+  color: white;
+      padding: 5px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.login{
+	  background-color: #43425D;
+
+}
+
+.reset{
+	background-color:#FFFFFF;
+	color:#43425D;
+}

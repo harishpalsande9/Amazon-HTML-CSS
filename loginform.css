@@ -1,0 +1,129 @@
+body , h4 , h2 {
+	margin : 0px;
+	padding : 0px;
+	font-family: 'Montserrat';
+}
+
+ul {
+	list-style-type:none;
+}
+
+a {
+    text-decoration: none;
+}
+
+h4{
+	text-align: center;
+}
+
+h2{
+	margin-bottom: 12px;
+}
+
+/* start first div */
+
+.firstdiv{
+    margin: 30px;
+}
+
+.seconddiv{
+}
+
+.formdiv{
+	border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 350px;
+    margin: auto;
+}
+
+.button1{
+    height: 30px;
+    width: 100%;
+    background: #F4CE72;
+    border: 1px solid;
+    border-radius: 4px;
+}
+
+
+
+.text{
+	padding:6px;
+	width: 95%;
+	border-radius: 4px solid #ddd;
+}
+
+.label1{
+	font-size: 13px;
+}
+
+.div-1 {
+	margin:30px;
+}
+
+.div-2 {
+	margin:30px;
+}
+.div-3 {
+	margin:30px;
+    margin-top: -22px;
+    margin-bottom: -14px;
+}
+.div-4 {
+	margin:30px;
+}
+.div-5 {
+	margin:30px;
+}
+ .div-6{
+	margin:30px;
+}
+
+.span1{
+	font-size:10px;
+}
+
+.span2{
+	font-size:12px;
+}
+
+/* end first div */
+
+.thirddiv{
+	text-align: center;
+	    margin: 15px;
+}
+.button2{
+    height: 30px;
+	    width: 351px;
+    border: 1px solid #ADB1B8;
+    border-radius: 4px;
+}
+
+.lastdiv{
+	background:#FAFAFA;
+	background: #FAFAFA;
+    height: 200px;
+    width: 100%;
+	text-align: center;
+}
+
+.lastdiv-1{
+	padding: 22px;
+	
+    padding-bottom: 10px;
+
+}
+
+.span3{
+	margin: 10px;
+    font-size: 11px;
+}
+
+.span4{
+    font-size: 11px;
+}
+
+hr{
+	    height: 0px;
+    width: 26%;
+}

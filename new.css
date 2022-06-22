@@ -1,0 +1,373 @@
+body {
+	margin : 0px;
+	padding : 0px;
+	background : #EAEDED;
+	font-family: 'Montserrat';
+}
+
+ul {
+	list-style-type:none;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* start top first div */
+
+.firstdiv{
+	background : #131921;
+	height : 60px;
+	width:100%;
+	position:fixed;
+}
+
+.img1{    
+	height: 50px;
+    width: 120px;
+}
+
+.box-1{
+	float:left;
+	color:white;
+}
+.box-1:hover   {
+	border: 1px solid white;
+}
+
+.box-2:hover{
+		border: 1px solid white;
+}
+
+.box-4:hover{
+		border: 1px solid white;
+}
+.box-5:hover{
+		border: 1px solid white;
+}
+.box-6:hover{
+		border: 1px solid white;
+}
+.box-7:hover{
+		border: 1px solid white;
+}
+
+firstli:hover{
+		border: 1px solid white;
+}
+.box-2{
+	float:left;
+	color:white;
+	margin:6px;
+	margin-left: 17px;
+}
+
+.box-3{
+	float:left;
+	color:white;
+	margin:6px;
+	margin-left: 17px;
+}
+
+.box-4{
+	float:left;
+	color:white;
+	margin:6px;
+	margin-left: 17px;
+	margin-top:20px;
+}
+
+.box-5{
+	float:left;
+	color:white;
+	margin:10px;
+	margin-left: 30px;
+}
+
+.box-6{
+	float:left;
+	color:white;
+	margin:10px;
+	margin-left: 30px;
+}
+
+.box-7{
+	float:left;
+	color:white;
+	margin:10px;
+	margin-left: 30px;
+}
+
+.line-11{
+    color: #ccc;
+    font-size: 12px;
+	margin-left: 14px;
+}
+
+.line-1{
+    color: white;
+    font-size: 12px;
+	margin-left: 14px;
+}
+.line-2{   
+	font-size: 14px;
+    line-height: 15px;
+    font-weight: 700;
+}
+
+.button1{
+	font-size:15px;
+    margin-right: -5px;
+    margin-left: -5px;
+	padding:10px;
+	border-radius: 5px 0px 0px 5px;
+}
+
+option{
+	background:red;
+}
+
+.button2{
+	font-size:15px;
+    margin-right: -5px;
+    margin-left: -5px;
+	padding:10px;
+	background: #FEBD69;
+	border-radius: 0px 5px 5px 0px;
+}
+
+.india{
+	height: 20px;
+	width:20px;
+}
+
+.input{
+	padding: 11px;
+}
+
+/* end top first div */
+
+/* start top second div */
+
+.seconddiv{
+	    background: #232F3E;
+		height: 44px;
+}
+
+.firstul{
+		margin:0px;	
+		color:white;
+}
+
+a{
+	color:white;
+}
+.firstli{
+	
+	float:left;
+	margin:10px;
+	display:inline;
+	    margin: 14px;
+}
+.firstli1{
+	
+	float:left;
+	margin:10px;
+	display:inline;
+	    margin: 14px;
+}
+
+
+
+/* end top second div */
+
+ /* start body img div */
+ 
+ .imgdiv{
+	 margin-top : 250px;
+ }
+ 
+ .img2{
+  position: absolute;
+  left: 0px;
+  top: 101px;
+  z-index: -1;
+}
+    
+.div-1{
+	background: white;
+    height: 350px;
+    width: 300px;
+	float: left;
+	margin: 15px;
+}
+
+
+.tv{
+	margin-top: 10px;
+    margin-left: 32px;
+    width: 218px;
+    height: 233px;
+}
+
+h3{
+	margin: 0px;
+    padding: 0px;
+    margin-top: 18px;
+    margin-left: 31px;
+}
+
+
+.div-long{
+	width: 1289px;
+    height: 100%;
+}
+
+h5{
+	margin: 0px;
+    margin-left: 166px;
+    margin-top: -15px;
+}
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+.img3{
+	width: 100%;
+    margin: 0px;
+}
+
+.div-long2{
+	width: 84%;
+    margin-left: 90px;
+	    height: auto;
+}   
+
+ /* end body img div */
+ 
+ /* sidepanel */
+ 
+.sidepanel  {
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding:0px;
+  margin:0px;
+  top:0px;
+  left:0px;
+}
+
+.box-1sidepanel{
+	  background: #232F3E;
+    color: white;
+    padding: 14px;
+    font-size: 24px;
+}
+
+
+.sidepanelul{
+	height: 1000px;
+    overflow: scroll;
+	color:black;
+	background: white;
+}
+
+.x{
+	float:right;
+	font-size: 24px;
+}
+
+.harish{
+	color:black;
+}
+
+.sidepanelli{
+	margin:25px;
+	margin-left:0px;
+}
+
+/* end sidepane */
+
+
+/* footer start */
+
+.fdiv-1{
+	background: #232F3E;
+    width: 100%;
+    float: left;
+	height:500px;
+}
+
+.backtotop{
+	background:#37475A;
+	width:100%;
+	height:55px;
+}
+
+.back{
+	margin: 0px;
+    text-align: center;
+    padding-top: 14px;
+	color:white;
+}
+
+.fbox-2{
+	margin-top: 50px;
+    background: none;
+	height: auto;
+}
+
+.footerul{
+	color:#D1DDDD;
+}
+
+.footerul-1{
+	color:#D1DDDD;
+	margin-left: 80px;
+}
+
+.footerul-2{
+	color:#D1DDDD;
+    margin-left: 27px;
+}
+.footerli{
+	    margin-top: 13px;
+		    font-size: 11px;
+}
+
+hr{
+	    margin: 0px;
+    padding: 0px
+}
+
+/* footer end */
